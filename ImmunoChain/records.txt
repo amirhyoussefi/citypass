@@ -1,0 +1,2 @@
+id, blockchain account#, date, vaccine, rounde, dosage, administrator_id
+["10001", "n1Xbc5aCAq6nmE9jpRepWrVGiC3e1mRTjFz,7/15/2018,Tdap2,1,1mcg,293837"]

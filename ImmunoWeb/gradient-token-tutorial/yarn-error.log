@@ -1,0 +1,32 @@
+Arguments: 
+  /usr/local/Cellar/node/9.5.0/bin/node /usr/local/Cellar/yarn/1.7.0/libexec/bin/yarn.js add zeppelin-solidity
+
+PATH: 
+  /usr/local/Cellar/node/9.5.0/bin:/Users/peterma/bin:/Users/peterma/Downloads/google-cloud-sdk/bin:/usr/local/bin:/usr/local/sbin:/Users/peterma/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin
+
+Yarn version: 
+  1.7.0
+
+Node version: 
+  9.10.0
+
+Platform: 
+  darwin x64
+
+Trace: 
+  Error: getaddrinfo ENOTFOUND registry.yarnpkg.com registry.yarnpkg.com:443
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:67:26)
+
+npm manifest: 
+  {
+    "name": "vaccine",
+    "version": "1.0.0",
+    "main": "index.js",
+    "license": "MIT"
+  }
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile
